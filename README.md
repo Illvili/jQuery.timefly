@@ -13,7 +13,18 @@ Code
 ----
 `$('.timefly').timefly();`
 
-What to do
-----------
-- languages settings
+Options
+-------
+    {
+      text: { ... }, // language settings,
+      data: {
+        oritext: 'timefly-text', // original text
+        timestamp: 'timefly-timestamp', // timestamp
+        flyaway: 'timefly-flyaway' // flyaway class name
+      }
+    }
+
+What to do next
+---------------
+- languages settings *(done)*
 - continue update timestamp
