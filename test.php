@@ -42,6 +42,7 @@ $test_array = array(
 	'13 month ago',
 	'1 year ago',
 	'2 year ago',
+	'3 year ago',
 	'4 year ago',
 	'5 year ago'
 );
